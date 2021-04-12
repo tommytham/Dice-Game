@@ -1,6 +1,6 @@
 # Dice-Game
 
-Simple website that contains a dice game.
+Simple website that contains a simple dice game.
 
 There are two dices, one for each player (2 players in this case). 
 
