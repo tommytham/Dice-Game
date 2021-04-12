@@ -7,24 +7,7 @@ function getDiceRoll(){
 }
 
 function setDiceImg(rollNumber,dice){
-    if (rollNumber === 1){
-        dice.setAttribute("src","images/dice1.png");
-    }
-    else if(rollNumber === 2){
-        dice.setAttribute("src","images/dice2.png");
-    }
-    else if(rollNumber === 3){
-        dice.setAttribute("src","images/dice3.png");
-    }
-    else if(rollNumber === 4){
-        dice.setAttribute("src","images/dice4.png");
-    }
-    else if(rollNumber === 5){
-        dice.setAttribute("src","images/dice5.png");
-    }
-    else {
-        dice.setAttribute("src","images/dice6.png");
-    }
+    dice.setAttribute("src","images/dice"+rollNumber+".png");
 
 }
 
