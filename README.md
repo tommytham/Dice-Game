@@ -1,4 +1,4 @@
-# Dice-Game
+# [Dice-Game](https://tommytham.github.io/Dice-Game/index.html)
 
 Simple website that contains a simple dice game.
 
